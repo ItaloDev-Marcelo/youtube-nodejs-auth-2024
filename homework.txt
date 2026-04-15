@@ -1,0 +1,3 @@
+criar um pagina de autetificação simples
+criar uma pagina de registro simples 
+e uma pagina de login e tentar implementa com o seu front-end 
